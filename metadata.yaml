@@ -1,0 +1,39 @@
+_repo: Narrative-of-Mr.-John-Dodge-during-his-Captivity-at-Detroit_33344
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Burton, Clarence Monroe
+    aliases:
+    - Burton, C. M. (Clarence Monroe)
+    - Burton, Clarence W.
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '36347'
+    url: http://www.gutenberg.org/2009/agents/36347
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dodge, John
+    birthdate: 1751
+    deathdate: 1800
+    gutenberg_agent_id: '36346'
+    url: http://www.gutenberg.org/2009/agents/36346
+description: ''
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33344'
+  lccn: '10006747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian captivities'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Prisoners and prisons'
+- !lcc 'E201'
+- !lcsh 'Detroit (Mich.)'
+title: Narrative of Mr. John Dodge during his Captivity at Detroit
+url: http://www.gutenberg.org/ebooks/33344
